@@ -10,3 +10,4 @@ document.getElementById("time").innerHTML = time + " <br>on " + date;
 }, 1000);
 
 console.log("created by Anshul Soni");
+console.log("visit my website- anshulsoni.netlify.app");
