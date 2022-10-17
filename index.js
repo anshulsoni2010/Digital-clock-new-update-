@@ -11,3 +11,6 @@ document.getElementById("time").innerHTML = time + " <br>on " + date;
 
 console.log("created by Anshul Soni");
 console.log("visit my website- anshulsoni.netlify.app");
+
+
+//don't copy my source code
