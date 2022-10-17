@@ -8,3 +8,5 @@ date = a.toLocaleDateString(undefined, options);
 time = a.getHours() + ':' + a.getMinutes() + ':' + a.getSeconds();
 document.getElementById("time").innerHTML = time + " <br>on " + date;
 }, 1000);
+
+console.log("created by Anshul Soni");
